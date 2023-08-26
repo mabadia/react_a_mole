@@ -32,13 +32,3 @@ export default App;
 
 
 
-// const [score, setScore] = useState(0);
-// const numMoleContainers = 9;
-
-// const moleContainers = Array.from({ length: numMoleContainers }).map((_, index) => (
-//     <MoleContainer
-//         key={index}
-//         setScore={setScore}
-//         score={score}
-//     />
-// ));
